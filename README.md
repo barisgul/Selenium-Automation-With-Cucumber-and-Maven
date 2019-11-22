@@ -15,3 +15,6 @@ As a client I want to add ,delete and update employees to list or from list.
 ![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestOutput.PNG)
 ### Junit Report 
 ![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/CucumberJunitResult.PNG)
+
+
+[![Watch the video](https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/video/Cucumber_RunGuide.mp4)
