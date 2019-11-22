@@ -1,0 +1,17 @@
+# Selenium-Automation-With-Cucumber-and-Maven
+A Selenium Test Automation Framework with Maven and Cucumber 
+# Introduction
+## Consider the following user story:
+As a client I want to add ,delete and update employees to list or from list. 
+
+# Cucumber framework template looks as below.
+![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/ProjectStructure.png)
+# Running
+![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/RunGuide.png)
+# Reports
+### Console Output 
+![console](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/CucumberConsoleResult.PNG)
+### HTML Report 
+![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/TestOutput.PNG)
+### Junit Report 
+![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/CucumberJunitResult.PNG)
