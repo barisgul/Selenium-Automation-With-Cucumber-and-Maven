@@ -20,15 +20,19 @@ Basically for these frameworks / concepts we can say:
 ## 2.1 Framework
 Here are a framework that i developed for automation tests using maven and junit with cucumber
 ## Consider the following user story for automated test examples:
-### Feature1:  Add user to list    
+### Feature1:  Valid Login  
+#### • As a Test Automation Developer
+#### • I want to login to application and
+#### • I try to close browser
+
+### Feature2:  Add user to list    
 #### • As a Test Automation Developer
 #### • I want to login to application and
 #### • I want to add item to list
 
-### Feature2:  Valid Login  
-#### • As a Test Automation Developer
-#### • I want to login to application and
-#### • I try to close browser
+Here is an execution report. You can see all test steps 
+![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestOutput.PNG)
+
 
 ## 2.2 Framework structure looks as below.
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/ProjectStructure.png)
