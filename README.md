@@ -1,6 +1,7 @@
 # An E2E Test Project for manual and autmation testing
 
 In this project I have prepared some test cases for manual and automation to make some transactions for http://cafetownsend-angular-rails.herokuapp.com/login application. 
+
 • There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
 ![test_cases](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestCases.PNG)
 • If you want to run full suite as manuel, please apply the AlLCases sheet in excel file. 
