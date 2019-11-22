@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="18.525894">
+    <testcase classname="Employee Tests" name="Add user to list" time="18.525894">
+        <system-out>
+            <![CDATA[Given I am a user of http://cafetownsend-angular-rails.herokuapp.com/login..passed
+When I log in using valid credentials.......................................passed
+Then I should be logged in..................................................passed
+Then I click to Create button...............................................passed
+Then I fill the employee fields with below criterias........................passed
+When I click to Add button employee should be added.........................passed
+Then i click to my added item...............................................passed
+When i click to delete button...............................................passed
+Then popup message should be appeared.......................................passed
+Then i click to OK button...................................................passed
+Then I click on Logout button...............................................passed
+Then I should logout successfully...........................................passed
+Then I close browser........................................................passed
+]]>
+        </system-out>
+    </testcase>
+</testsuite>
