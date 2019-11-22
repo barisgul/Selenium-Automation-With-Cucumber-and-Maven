@@ -1,3 +1,14 @@
+# An E2E Test Process for manual and autmation testing
+
+## In this project I have prepared some test cases for manual and automation. 
+### • There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
+![test_cases](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestCases.PNG)
+### • If you want to run full suite as manuel, please apply the AlLCases sheet in excel file. 
+### • But if you want to run only specific scenarios, you can switch to particular sheet in same excel file. 
+### • For more, please download file.
+### • Tester can decide to which tests should be automated or manual according to the scenarios. Each test step has test data and requirement if needed. So, if you want to gain a clear path, just follow the scenario :)
+
+
 # Selenium-Automation-With-Cucumber-and-Maven
 A Selenium Test Automation Framework with Maven and Cucumber 
 
