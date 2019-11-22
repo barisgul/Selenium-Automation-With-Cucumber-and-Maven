@@ -1,8 +1,5 @@
 # Selenium-Automation-With-Cucumber-and-Maven
 A Selenium Test Automation Framework with Maven and Cucumber 
-# Introduction
-## Consider the following user story:
-As a client I want to add ,delete and update employees to list or from list. In framework i write 2 scenarios for login and adding an employee.
 
 # Framework structure looks as below.
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/ProjectStructure.png)
@@ -16,6 +13,8 @@ As a client I want to add ,delete and update employees to list or from list. In 
 
 # Running
 In above framework there are two simple scenarios for login and adding a record to 'http://cafetownsend-angular-rails.herokuapp.com/'
+## Consider the following user story:
+As a client I want to add ,delete and update employees to list or from list. In framework i write 2 scenarios for login and adding an employee.
 ### • For execute the test scenarios follow the steps below
 Requirements:
 - Java 1.8 or higher
@@ -27,11 +26,12 @@ Requirements:
 #### • In a runner class right click on mouse and run as JUnit test scenario as below 
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/RunCucumberTest.png)
 #### • or watch this video :)
-[![Watch the video](https://www.testingexcellence.com/wp-content/uploads/2016/01/selenium-and-cucumber.png)](https://youtu.be/wvrdnVB5Xus)
+[![Watch the video](https://i.ytimg.com/vi/CVXp3ZgUIr8/maxresdefault.jpg)](https://youtu.be/wvrdnVB5Xus)
 #### • Thats it :)
 
 
 # Reports
+• Junit and Cucumber you provides effective report types to us. You can see this reports under the TestReports folder after the execution. Here are some of them: 
 ### Console Output 
 ![console](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/CucumberConsoleResult.PNG)
 ### HTML Report 
