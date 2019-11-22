@@ -7,7 +7,7 @@ As a client I want to add ,delete and update employees to list or from list.
 # Cucumber framework template looks as below.
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/ProjectStructure.png)
 # Running
-![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/RunGuide.png)
+![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/RunCucumberTest.png)
 # Reports
 ### Console Output 
 ![console](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/img/CucumberConsoleResult.PNG)
