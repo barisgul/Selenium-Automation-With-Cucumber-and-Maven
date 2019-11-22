@@ -1,4 +1,4 @@
-# An E2E Test Process for manual and autmation testing
+# An E2E Test Project for manual and autmation testing
 
 In this project I have prepared some test cases for manual and automation to make some transactions for http://cafetownsend-angular-rails.herokuapp.com/login application. 
 • There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
