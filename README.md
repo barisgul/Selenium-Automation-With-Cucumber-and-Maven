@@ -25,8 +25,8 @@ Requirements:
 #### • Under the src/test/java package find the runners
 #### • In a runner class right click on mouse and run as JUnit test scenario as below 
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/RunCucumberTest.png)
-#### • or watch this video :)
-[![Watch the video](https://i.ytimg.com/vi/CVXp3ZgUIr8/maxresdefault.jpg)](https://youtu.be/wvrdnVB5Xus)
+#### • or watch this video
+https://youtu.be/wvrdnVB5Xus
 #### • Thats it :)
 
 
