@@ -20,7 +20,7 @@ Basically for these frameworks / concepts we can say:
 
 ## 2.1 Framework
 Here are a framework that i developed for automation tests using maven and junit with cucumber
-## Consider the following user story for automated test examples:
+## I tried to consider the following user story for automated test examples:
 ### Feature1:  Valid Login  
 #### • As a Test Automation Developer
 #### • I want to login to application and
