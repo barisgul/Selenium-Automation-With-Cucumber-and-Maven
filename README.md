@@ -3,33 +3,33 @@
 # 1- Introduction
 For review the full cases, please clone or download project as zip. You can see all test scenarios under the doc folder.
 > In this project I have prepared some test cases for manual and automation to make some transactions for http://cafetownsend-angular-rails.herokuapp.com/login application. 
-## • There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
+> There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
 ![test_cases](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestCases.PNG)
-## • If you want to run full suite as manuel, please apply the AllCases sheet in excel file. 
-## • But if you want to run only specific scenarios, you can switch to particular sheet in same excel file. 
-## • For more, please download file.
-## • Tester can decide to which tests should be automated or manual according to the scenarios. Each test step has test data and requirement if needed. So, if you want to gain a clear path, just follow the scenario :)
+> If you want to run full suite as manuel, please apply the AllCases sheet in excel file. 
+> If you want to run only specific scenarios, you can switch to particular sheet in same excel file. 
+> For more, please download file.
+> Tester can decide to which tests should be automated or manual according to the scenarios. Each test step has test data and requirement if needed. So, if you want to gain a clear path, just follow the scenario :)
 
 
 # 2- For Automation, Why Selenium, Maven and Cucumber?
 
 Basically for these frameworks / concepts we can say:
-## • Selenium : This article describes clearly https://dzone.com/articles/11-reasons-why-go-for-automation-testing-using-sel
-## • Maven: Dependency Management is clearly declared in Maven
-## • Cucumber: Understandable format (like plain English) to Business Analysts, Developers, Testers, etc
+> Selenium : This article describes clearly https://dzone.com/articles/11-reasons-why-go-for-automation-testing-using-sel
+> Maven: Dependency Management is clearly declared in Maven
+> Cucumber: Understandable format (like plain English) to Business Analysts, Developers, Testers, etc
 
 ## 2.1 Framework
 Here are a framework that i developed for automation tests using maven and junit with cucumber
-## I tried to consider the following user story for automated test examples:
-### Feature1:  Valid Login  
-#### • As a Test Automation Developer
-#### • I want to login to application and
-#### • I try to close browser
+> I tried to consider the following user story for automated test examples:
+** Feature1:  Valid Login **
+- As a Test Automation Developer
+- I want to login to application and
+- I try to close browser
 
-### Feature2:  Add user to list    
-#### • As a Test Automation Developer
-#### • I want to login to application and
-#### • I want to add item to list
+** Feature2:  Add user to list  **  
+- As a Test Automation Developer
+- I want to login to application and
+- I want to add item to list
 
 Here is an execution report. You can see all test steps 
 ![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestOutput.PNG)
