@@ -32,12 +32,12 @@ Here are a framework that i developed for automation tests using maven and junit
 
 > I tried to consider the following user story for automated test examples:
 
-** Feature1:  Valid Login **
+**Feature1:  Valid Login**
 - As a Test Automation Developer
 - I want to login to application and
 - I try to close browser
 
-** Feature2:  Add user to list  **  
+**Feature2:  Add user to list**  
 - As a Test Automation Developer
 - I want to login to application and
 - I want to add item to list
@@ -49,12 +49,15 @@ Here is an execution report. You can see all test steps
 ## 2.2 Framework structure looks as below.
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/ProjectStructure.png)
 
-# I used Page Object Design Pattern in this framework. 
-## Some Advantages of POM
-### • Avoid to write the duplicate locators for same WebElement
-### • Maintenance of the test script which becomes very easy
-### • Robust and more readable
-### • The Object-oriented approach makes the framework programmer friendly
+- I used Page Object Design Pattern in this framework. 
+- Some Advantages of POM
+> Avoid to write the duplicate locators for same WebElement
+
+> Maintenance of the test script which becomes very easy
+
+> Robust and more readable
+
+> The Object-oriented approach makes the framework programmer friendly
 
 # 3- Running
 In above framework there are two simple scenarios for login and adding a record to 'http://cafetownsend-angular-rails.herokuapp.com/'
@@ -63,23 +66,28 @@ Requirements:
 - Java 1.8 or higher
 - Maven 3.6 or higher
 
-#### • First, clone or download the project to your computer
-#### • Open the project in eclipse (File->Open Projects From File System)
-#### • Under the src/test/java package find the runners
-#### • In a runner class right click on mouse and run as JUnit test scenario as below 
+> First, clone or download the project to your computer
+
+> Open the project in eclipse (File->Open Projects From File System)
+
+> Under the src/test/java package find the runners
+
+> In a runner class right click on mouse and run as JUnit test scenario as below 
+
 ![framework_template_1](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/RunCucumberTest.png)
-#### • or watch this video
+> or watch this video
 https://youtu.be/wvrdnVB5Xus
-#### • Thats it :)
+
+> Thats it :)
 
 
 # 4- Reports
-• Junit and Cucumber you provides effective report types to us. You can see this reports under the TestReports folder after the execution. Here are some of them: 
-### Console Output 
+• Junit and Cucumber provides effective report types to us. You can see this reports under the TestReports folder after the execution. Here are some of them: 
+- Console Output 
 ![console](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/CucumberConsoleResult.PNG)
-### HTML Report 
-![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestOutput.PNG)
-### Junit Report 
+- HTML Report 
+![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/TestOutput.PNG)-
+- Junit Report 
 ![htmlreport](https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/blob/master/docs/images/CucumberJunitResult.PNG)
 
 
