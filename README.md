@@ -1,10 +1,8 @@
 # An E2E Test Project for manual and autmation testing
 
 # 1- Introduction
-> Subtitle or Short Description Goes Here
-
-> ideally one sentence
 For review the full cases, please clone or download project as zip. You can see all test scenarios under the doc folder.
+
 > In this project I have prepared some test cases for manual and automation to make some transactions for http://cafetownsend-angular-rails.herokuapp.com/login application.
 
 > There are many test scenarios under the https://github.com/barisgul/Selenium-Automation-With-Cucumber-and-Maven/tree/master/docs/test-cases folder. 
@@ -24,12 +22,16 @@ For review the full cases, please clone or download project as zip. You can see 
 
 Basically for these frameworks / concepts we can say:
 > Selenium : This article describes clearly https://dzone.com/articles/11-reasons-why-go-for-automation-testing-using-sel
+
 > Maven: Dependency Management is clearly declared in Maven
+
 > Cucumber: Understandable format (like plain English) to Business Analysts, Developers, Testers, etc
 
 ## 2.1 Framework
 Here are a framework that i developed for automation tests using maven and junit with cucumber
+
 > I tried to consider the following user story for automated test examples:
+
 ** Feature1:  Valid Login **
 - As a Test Automation Developer
 - I want to login to application and
